@@ -1,0 +1,10 @@
+{
+  "name": "elemental",
+  "version": "0.0.1",
+  "description": "Reactive js library",
+  "main": "index.js",
+  "repository": "https://github.com/djChika/Elemental",
+  "author": "Chika",
+  "license": "MIT",
+  "private": false
+}
